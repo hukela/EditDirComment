@@ -1,0 +1,8 @@
+# 初始配置
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+# rider文件
+.idea/
