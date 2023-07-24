@@ -39,7 +39,9 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
-        <Compile Include="MenuDict.cs" />
+        <Compile Include="FileIo.cs" />
+        <Compile Include="LogForConsole.cs" />
+        <Compile Include="MenuEdit.cs" />
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
